@@ -1,4 +1,7 @@
 .form-control {
-    background-color: #396BBA;
-    color: #FFE031;
+  background-color: #396bba;
+  color: #ffe031;
+}
+#search-button {
+  margin-top: 2em;
 }

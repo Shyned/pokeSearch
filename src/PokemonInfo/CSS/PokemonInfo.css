@@ -1,25 +1,25 @@
-.list-group .list-group-item{
-    background-color: #396BBA;
-    font-weight: bold;
-    position: relative;
+.list-group .list-group-item {
+  background-color: #396bba;
+  font-weight: bold;
+  position: relative;
 }
 
 .btn {
-  background-color: #f9a96d !important;
-  color: #396BBA !important;
-  position: fixed;
+  background-color: #ffde00 !important;
+  color: #396bba !important;
+
   top: 60vh;
   z-index: 1;
 }
 
 .btn:hover {
   background-color: #f9a96d !important;
-  color: #396BBA;
+  color: #396bba;
 }
 
 .btn:active {
   background-color: #f9a96d !important;
-  color: #FFE031;
+  color: #ffe031;
 }
 
 .list {
